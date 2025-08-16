@@ -11,6 +11,13 @@ API service for storing and retrieving key-value pairs with timestamp-based quer
 - Simple and intuitive Python API
 - Easily integrable into **backend systems** and **AI pipelines**
 
+## Technologies
+- **Languages**: Python
+- **Database Concepts**: Key-Value, Time-Series, ETL
+- **Tools**: Git, PyTest
+- Can integrate with **AI/ML pipelines** or backend services
+
+
 ## Setup and Run
 
 First clone this repo.
