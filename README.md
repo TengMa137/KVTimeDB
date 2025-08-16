@@ -1,5 +1,15 @@
 
+# KVTimeDB 🗄️
+
+**KVTimeDB** is a Python-based key-value **time-series database** designed for **high-performance storage and retrieval** of sequential data. Ideal for backend applications, analytics pipelines, and AI projects needing fast data access. 
 API service for storing and retrieving key-value pairs with timestamp-based queries.
+
+
+## Features
+- Optimized for **time-series data**
+- Fast **read/write operations**
+- Simple and intuitive Python API
+- Easily integrable into **backend systems** and **AI pipelines**
 
 ## Setup and Run
 
